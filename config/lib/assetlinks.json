@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.extreme_store",
+    "sha256_cert_fingerprints":
+    ["41:CB:CF:1F:46:CD:1E:32:1D:18:34:D0:C3:E1:9E:63:9C:DB:22:DD:C1:B7:AF:B0:36:41:22:E4:88:99:6D:23"]
+  }
+}]

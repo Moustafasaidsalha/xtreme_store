@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "XF3ARA6HMV.com.example.leapPlatform,
+        "paths": ["*"]
+      }
+    ]
+  }
+}

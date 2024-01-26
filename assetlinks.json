@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.leapsolutionskw.xtreme",
+    "sha256_cert_fingerprints":
+    ["EE:77:22:75:27:0B:99:47:75:B2:59:D9:5B:60:BB:A1:6F:85:5D:90:3B:FF:A5:A5:6E:BB:F5:6E:9A:F3:65:F9"]
+  }
+}]

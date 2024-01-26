@@ -1,0 +1,46 @@
+class RoutesConstant {
+  static const landing = "/";
+  static const login = "/login";
+  static const loginWithPin = "/loginWithPin";
+  static const signUp = "/signUp";
+  static const phoneSignUp = "/phoneSignUp";
+  static const signUpWithPin = "/signUpWithPin";
+  static const verifyUser = "/verifyUser";
+  static const resetPassword = "/resetPassword";
+  static const changePin = "/changePin";
+  static const verifyResetPasswordCode = "/verifyResetPasswordCode";
+  static const addNewPassword = "/addNewPassword";
+  static const home = "/home";
+  static const categories = "/categories";
+  static const newIn = "/newIn";
+  static const bestSeller = "/bestSeller";
+  static const offers = "/offers";
+  static const search = "/search";
+  static const addNewAddress = "/addNewAddress";
+  static const verifySuccessful = "/verifySuccessful";
+  static const timeSlot = "/timeSlot";
+  static const paymentMethod = "/paymentMethod";
+  static const trackOrder = "/trackOrder";
+  static const wishlist = "/wishlist";
+  static const profile = "/profile";
+  static const orders = "/orders";
+  static const notifications = "/notifications";
+  static const privacyPolicy = "/privacyPolicy";
+  static const faqs = "/faqs";
+  static const myAccount = "/myAccount";
+  static const myAccountRegistered = "/myAccountRegistered";
+  static const aboutApp = "/aboutApp";
+  static const cart = "/cart";
+  static const categoryHome = "/categoryHome";
+  static const addresses = "/addresses";
+  static const productDetails = "/productDetails";
+  static const selectCountry = "/selectCountry";
+  static const mapPage = "/mapPage";
+  static const homeLanding = "/homeLanding";
+  static const orderLookupPage = "/orderLookupPage";
+  static const adScreenPage = "/adScreenPage";
+  static const ordersPage = "/ordersPage";
+  static const cartFromDetails = "/cartFromDetails";
+  static const paymentPage = "/paymentPage";
+
+}

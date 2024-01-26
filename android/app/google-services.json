@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113453675319",
+    "project_id": "xtreme-6e456",
+    "storage_bucket": "xtreme-6e456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113453675319:android:2ec58a71fecf6fbc3220b2",
+        "android_client_info": {
+          "package_name": "com.leapsolutionskw.xtreme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPU5KmaeWkRwtRCnHnKAXB7AcAw6p5ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
